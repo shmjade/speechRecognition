@@ -1,0 +1,15 @@
+__pycache__
+audio-files
+google-speech-to-text/gc-speech-to-text/__pycache__
+google-speech-to-text/gc-speech-to-text/bin
+google-speech-to-text/gc-speech-to-text/drafts
+google-speech-to-text/gc-speech-to-text/include
+google-speech-to-text/gc-speech-to-text/lib
+google-speech-to-text/gc-speech-to-text/lib64
+pocketsphinx
+temp_audios
+whisper
+google-speech-to-text/gc-speech-to-text/pyvenv.cfg
+google-speech-to-text/gc-speech-to-text/speechrecognition-key.json
+google-speech-to-text/gc-speech-to-text/pyvenv.cfg
+README.md
